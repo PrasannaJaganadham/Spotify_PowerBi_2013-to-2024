@@ -24,5 +24,7 @@ Visuals (Heatmaps, scatter plots, time-series charts, drill-through reports)
 
 🚀 Outcomes
 ✨ Built a comprehensive dashboard analyzing Spotify listening behavior
+
 ✨ Generated actionable insights on albums, artists, and tracks
+
 ✨ Strengthened expertise in data preparation, DAX & storytelling through visualization
